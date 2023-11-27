@@ -64,7 +64,7 @@ SECRET_KEY = os.getenv('SECRET_KEY')
 # DEBUG = 'DEV' in os.environ
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-asiawi-djangorestfrmwrk-tp19mhm9en5.ws-eu106.gitpod.io', 'https://django-rest-frmwrk-9285b10668e7.herokuapp.com/']
+ALLOWED_HOSTS = ['8000-asiawi-djangorestfrmwrk-tp19mhm9en5.ws-eu106.gitpod.io', 'django-rest-frmwrk-9285b10668e7.herokuapp.com']
 
 
 # Application definition
